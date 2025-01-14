@@ -10,7 +10,7 @@ Analysis of historical trade data from Binance accounts over a 90-day period, ca
   - Insights and Visualizations
 - Key Learnings
 
----
+
 
 ## Problem Statement:
 This project involves analyzing 90 days of historical trade data from Binance accounts to calculate key financial metrics:
@@ -21,7 +21,7 @@ This project involves analyzing 90 days of historical trade data from Binance ac
 - **Win Rate**  
 The objective is to rank accounts based on performance and provide actionable trading insights.
 
----
+
 
 ## Steps Followed:
 
@@ -51,7 +51,7 @@ The objective is to rank accounts based on performance and provide actionable tr
 - Correlation heatmap: Relationship between key metrics.
 - Scatter plot: ROI vs. Sharpe Ratio.
 
----
+
 
 ## Key Learnings:
 - **Data Manipulation**: Mastered cleaning and organizing large datasets.
@@ -60,7 +60,6 @@ The objective is to rank accounts based on performance and provide actionable tr
 - **Ranking System**: Developed a methodology to score and rank accounts.
 - **Documentation**: Improved project reporting and documentation skills.
 
----
 
 ## Visualizations:
 ![Corelation Heat Map](https://github.com/user-attachments/assets/f104b9a0-ab41-4b94-b29f-6b36eb04bb0a)
@@ -70,13 +69,10 @@ The objective is to rank accounts based on performance and provide actionable tr
 ![ROI vs Sharpe Ratio](https://github.com/user-attachments/assets/86332172-862e-4d46-b69b-d6322805c7f6)
 ![Win Rate vs PnL ](https://github.com/user-attachments/assets/92929a65-7c9d-4fee-86c2-2c9f3cad9d42)
 ![Win Rate vs ROI](https://github.com/user-attachments/assets/0fd07e81-55c4-45ab-b6cd-6e9bf0c9695b)
----
 
 ## Future Work:
 - Incorporate trade duration and asset-specific performance for deeper insights.
 - Use predictive modeling to forecast account performance.
-
----
 
 ## Contact Information:
 **Shripad Kulkarni**  
