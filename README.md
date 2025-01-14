@@ -1,9 +1,6 @@
 # Binance_Trade_Data_Analysis
 Analysis of historical trade data from Binance accounts over a 90-day period, calculating financial metrics such as Return On Investment (ROI) , Profit and Loss (PnL) , Sharpe Ratio, and Maximum Drawdown (MDD) to rank accounts based on performance.
 
-# Binance_Trade_Data_Analysis
-![Binance Trade Data Analysis](https://github.com/user-attachments/assets/analysis_cover_image.png)
-
 ## Table of Contents
 - Problem Statement
 - Steps Followed
@@ -66,12 +63,13 @@ The objective is to rank accounts based on performance and provide actionable tr
 ---
 
 ## Visualizations:
-### Sample Visuals
-![Win Rate vs. PnL](https://github.com/user-attachments/assets/win_rate_pnl.png)
-![ROI vs. Sharpe Ratio](https://github.com/user-attachments/assets/roi_sharpe.png)
-![Sharpe Ratio Distribution](https://github.com/user-attachments/assets/sharpe_ratio_histogram.png)
-![MDD Distribution](https://github.com/user-attachments/assets/mdd_histogram.png)
-
+![Corelation Heat Map](https://github.com/user-attachments/assets/f104b9a0-ab41-4b94-b29f-6b36eb04bb0a)
+![Distribution of MDD](https://github.com/user-attachments/assets/1c3e8672-2b43-4a85-ada9-e8524a8402ec)
+![Distribution of Sharpe Ration](https://github.com/user-attachments/assets/f4830a24-3b4c-4ee1-b5d9-ff27328925c3)
+![MDD vs PnL](https://github.com/user-attachments/assets/1f6cbeef-fdd4-4787-b660-8186431d06fb)
+![ROI vs Sharpe Ratio](https://github.com/user-attachments/assets/86332172-862e-4d46-b69b-d6322805c7f6)
+![Win Rate vs PnL ](https://github.com/user-attachments/assets/92929a65-7c9d-4fee-86c2-2c9f3cad9d42)
+![Win Rate vs ROI](https://github.com/user-attachments/assets/0fd07e81-55c4-45ab-b6cd-6e9bf0c9695b)
 ---
 
 ## Future Work:
